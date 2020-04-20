@@ -1,0 +1,6 @@
+#ifndef WORDPOLARITY_H
+#define WORDPOLARITY_H
+
+
+
+#endif // WORDPOLARITY_H
