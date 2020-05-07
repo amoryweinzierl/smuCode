@@ -16,3 +16,7 @@ Final Project - description in folder (in header)
 SMURF - description in folder (in header)
 
 20s-pa03-amoryweinzierl-master - description in folder (in header)
+
+Database Final Project - details in README
+
+Algorithms Final Project - details in README
