@@ -11,7 +11,7 @@ Sprint 4 - Using an adjacency list, I tracked connecting flights through differe
 
 lib - the data structures I "harcoded" in order to mimic already existing data structures.
 
-Final Project - description in folder (in header)
+Search Engine - description in folder (in header)
 
 SMURF - description in folder (in header)
 
