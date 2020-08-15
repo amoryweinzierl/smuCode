@@ -9,7 +9,7 @@ Sprint 3 - I implemented and analyzed the different runtimes of different sortin
 
 Sprint 4 - Using an adjacency list, I tracked connecting flights through different cities
 
-lib - all data structures I created
+lib - the data structures I "harcoded" in order to mimic already existing data structures.
 
 Final Project - description in folder (in header)
 
