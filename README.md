@@ -7,7 +7,7 @@ Sprint 2 - using the DSSVector and DSString data structures I created, I analyze
 
 Sprint 3 - I implemented and analyzed the different runtimes of different sorting algorithms
 
-Sprint 4 - Using an adjacency list, I tracked connecting flights through different cities
+Sprint 4 - Using an adjacency list, I tracked connecting flights through different cities (for this project: my solution was unsuccessful. I am including it in the repository to demonstrate that I am familiar with linked lists/adjacency list as well as the other concepts of the prompt)
 
 lib - the data structures I "harcoded" in order to mimic already existing data structures.
 
